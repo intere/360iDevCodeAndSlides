@@ -14,6 +14,7 @@
 * 200: TEACHING AN IPHONE TO SEE: ADVENTURES IN COMPUTER VISION
 * 300: BUILDING APPS FOR BUSINESS: CONQUERING THE ENTERPRISE
 * 200: EXPLORING NEURAL NETWORKS FOR RECOGNITION OF HAND-DRAWN SHAPES
+    * https://github.com/twenty3/synapse
 * 100: THE SELFIE DEVELOPER
 * 100: MAJOR 🔑S TO IOS DESIGN
     * https://speakerdeck.com/tyburg/major-s-to-ios-design
@@ -52,11 +53,15 @@
 * 300: AN INDIE’S GUIDE TO BUILDING PROFITABLE APPS
 * 200: ADVANCED IOS APPLICATION ARCHITECTURE
 * 200: WRITING CODE FOR HUMANS, NOT COMPUTERS
+    * http://www.slideshare.net/renecacheaux/writing-code-for-humans-not-computers
 * HOW TO START AN APP CAMP FOR GIRLS LOCATION
 * HOW TO BE INVISIBLE
 * 100: CHALLENGING OUR ASSUMPTIONS TO SUCCEED IN THE APP STORE
+    * https://speakerdeck.com/parrots/360idev-challenging-our-assumptions-to-succeed-in-the-app-store
 * 200: A TALE OF TWO TRACERS
+    * https://github.com/hyperjeff/360iDev-2016-RayTracing
 * 300: SWIFT GLUE CODE
+    * https://github.com/sptramer/360iDev-Swift-Glue-2016
 * 200: TWEAKING AND A/B TESTING YOUR APP ON THE FLY
 * 300: PRO STORYBOARD TECHNIQUES
 * 100: BECOMING AN INDIE
