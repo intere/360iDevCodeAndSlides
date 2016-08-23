@@ -6,7 +6,11 @@
 * BATTLE TEAPOTS: 3D GAMES WITH SPRITEKIT AND SCENEKIT
     * https://github.com/kognate/battle_teapots
 * TAME THE DRAGONS IN YOUR PROJECTS
+    * https://bitbucket.org/tyreeapps/ohai-denver
+    * [Slides](resources/TAME%20THE%20DRAGONS%20IN%20YOUR%20PROJECTS/TAME%20THE%20DRAGONS%20IN%20YOUR%20PROJECTS.zip)
 * DEBUGGING AND XCODE – TIPS AND ADVICE
+    * [Slides](resources/DEBUGGING%20AND%20XCODE%20–%20TIPS%20AND%20ADVICE/DebuggingTipsAndTechnique-KHG-360iDev2016.pdf)
+    * [Example project](resources/DEBUGGING%20AND%20XCODE%20–%20TIPS%20AND%20ADVICE/DebuggingAppV6.zip)
 * DEFEND THE UNIVERSE WITH SUPER CAT USING SPRITE KIT & APPLE TV
     * https://github.com/thedevme/sc-starter 
 
@@ -17,10 +21,12 @@
     * https://github.com/hivebrain/CascadeClassifierDemo
 * 300: BUILDING APPS FOR BUSINESS: CONQUERING THE ENTERPRISE
 * 200: EXPLORING NEURAL NETWORKS FOR RECOGNITION OF HAND-DRAWN SHAPES
+    * [Slides](resources/EXPLORING%20NEURAL%20NETWORKS%20FOR%20RECOGNITION%20OF%20HAND-DRAWN%20SHAPES/Exploring%20Neural%20Networks.pdf)
     * https://github.com/twenty3/synapse
 * 100: THE SELFIE DEVELOPER
 * 100: MAJOR 🔑S TO IOS DESIGN
     * https://speakerdeck.com/tyburg/major-s-to-ios-design
+    * [Post with the links mentioned in the talk](https://medium.com/@tyburg/major-s-to-ios-design-links-28cdf0afee01#.8vm3n3x6u)
 * 100: FAST, FUN, AND PROFESSIONAL AUDIO IN YOUR APPS
     * http://audiokit.io/360iDev (https://www.dropbox.com/s/17ukptnpfowj2u9/360.zip?dl=0)
     * https://github.com/audiokit/AudioKit (they are looking for contributors)
@@ -30,6 +36,7 @@
 * 300: COMPILERS AREN’T MAGIC, SO LET’S BUILD ONE IN SWIFT
     * https://github.com/apbendi/bitsyspec
     * https://github.com/apbendi/bitsy-swift
+    * [Slides](resources/COMPILERS%20AREN’T%20MAGIC%2C%20SO%20LET’S%20BUILD%20ONE%20IN%20SWIFT/Compiler-Talk.key)
 * 100: SOFTWARE IS A PEOPLE BUSINESS
 * 100: CRAFTING GREAT ACCESSIBLE EXPERIENCES
 * 200: CREATING CUSTOM CONTROLS
@@ -47,12 +54,13 @@
 
 ## Second Day (Tuesday)
 * 200: SERIOUS SIMULATION WITH GAMEPLAYKIT
-* 200: BETTER COREANIMATION USING SWIFT PLAYGROUNDS
+* 200: BETTER CORE ANIMATION USING SWIFT PLAYGROUNDS
     * https://github.com/rmirabelli/CoreAnimationSwiftPlaygrounds/
 * 100: CAN YOU TEST IT
 * 100: DON’T WRITE TVML OFF YET…
 * 300: LIFE AFTER PARSE
 * 100: ON THE SHOULDER OF GIANTS: HOW TO PROPERLY MENTOR A JUNIOR DEVELOPER
+    * [Slides](resources/ON%20THE%20SHOULDER%20OF%20GIANTS%20-%20HOW%20TO%20PROPERLY%20MENTOR%20A%20JUNIOR%20DEVELOPER/On%20the%20Shoulder%20Of%20Giants%20-%20How%20To%20Properly%20Mentor%20A%20Junior%20Developer.pdf)
 * 200: DRONES, IOT, SERVERLESS, COGNITIVE COMPUTING, CLOUD AND… SWIFT!
     * Src: https://github.com/IBM-Bluemix/skylink/tree/swift
     * Slides: https://github.com/triceam/Presentations/raw/master/2016/360iDev/Drones%20Cognitive%20Cloud%20Serverless%20and%20Swift%20-%20Andrew%20Trice.pdf
@@ -73,5 +81,5 @@
 * 300: PRO STORYBOARD TECHNIQUES
 * 100: BECOMING AN INDIE
 * 200: SWIFT & REACTIVEX – ASYNCHRONOUS EVENT-BASED FUNSIES WITH RXSWIFT
+    * http://www.slideshare.net/astralbodies/swift-reactivex-asynchronous-eventbased-funsies-with-rxswift
 * STUMP III: THE SEARCH FOR STUMP
-* 
