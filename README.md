@@ -81,6 +81,7 @@
     * https://github.com/sptramer/360iDev-Swift-Glue-2016
 * 200: TWEAKING AND A/B TESTING YOUR APP ON THE FLY
 * 300: PRO STORYBOARD TECHNIQUES
+    * [Code](resources/PRO%20STORYBOARD%20TECHNIQUES/Pro%20Storyboard%20Techniques.zip)
 * 100: BECOMING AN INDIE
     * [Slides](resources/BECOMING%20AN%20INDIE/Becoming%20an%20Indie.pdf)
 * 200: SWIFT & REACTIVEX – ASYNCHRONOUS EVENT-BASED FUNSIES WITH RXSWIFT
@@ -89,12 +90,15 @@
 ## Third Day (Wednesday)
 * 200: PLAY FIRST DEVELOPMENT
 * 300: GAMIFYING THE NEWS
+    * [Slides](https://github.com/ArtSabintsev/Gamifying-the-News-360iDev-2016/)
 * 200: NEEDLE IN A HAYSTACK: IOS SEARCH
+    * [Slides](https://speakerdeck.com/mblackmon/search-in-ios-9-needle-in-a-haystack)
 * CONFUSION OPTIONAL
 * 200: LEVERAGING SWIFT’S TYPE SYSTEM
 * 200: DEVELOPING WEARABLE SOFTWARE
     * Src: https://github.com/cnstoll/BeerButton
 * CYCRIPT: JS/OBJC/JAVA HYBRID REPL
+    * http://www.cycript.org/
 * 300: EFFECTIVE NETWORK API DEVELOPMENT & TESTING WITH MOCKING
 * MIKE LEE, STATE OF THE THINGS
 * 100: SPOCK MEETS KIRK – HOW ENGINEERING AND BUSINESS TEAMS CAN COMMUNICATE BETTER
