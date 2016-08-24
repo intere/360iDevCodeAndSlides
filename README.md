@@ -89,6 +89,7 @@
 ## Third Day (Wednesday)
 * 200: PLAY FIRST DEVELOPMENT
 * 300: GAMIFYING THE NEWS
+   * [https://github.com/ArtSabintsev/Gamifying-the-News-360iDev-2016/](https://github.com/ArtSabintsev/Gamifying-the-News-360iDev-2016/) 
 * 200: NEEDLE IN A HAYSTACK: IOS SEARCH
 * CONFUSION OPTIONAL
 * 200: LEVERAGING SWIFT’S TYPE SYSTEM
