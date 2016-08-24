@@ -12,11 +12,11 @@
     * [Slides](resources/DEBUGGING%20AND%20XCODE%20–%20TIPS%20AND%20ADVICE/DebuggingTipsAndTechnique-KHG-360iDev2016.pdf)
     * [Example project](resources/DEBUGGING%20AND%20XCODE%20–%20TIPS%20AND%20ADVICE/DebuggingAppV6.zip)
 * DEFEND THE UNIVERSE WITH SUPER CAT USING SPRITE KIT & APPLE TV
-    * https://github.com/thedevme/sc-starter 
+    * https://github.com/thedevme/sc-starter
 
 ## First Day (Monday)
 * 200: BUILDING APPS FOR APPLE TV
-    * https://github.com/justindomnitz/idev2016.git 
+    * https://github.com/justindomnitz/idev2016.git
 * 200: TEACHING AN IPHONE TO SEE: ADVENTURES IN COMPUTER VISION
     * https://github.com/hivebrain/CascadeClassifierDemo
 * 300: BUILDING APPS FOR BUSINESS: CONQUERING THE ENTERPRISE
@@ -40,7 +40,7 @@
 * 100: SOFTWARE IS A PEOPLE BUSINESS
 * 100: CRAFTING GREAT ACCESSIBLE EXPERIENCES
 * 200: CREATING CUSTOM CONTROLS
-    * https://github.com/andriajensen/CustomControls 
+    * https://github.com/andriajensen/CustomControls
 * 100: LEGAL ISSUES IN MOBILE DEVELOPMENT
 * 200: CLOUD POWERED IOS APPS WITH AZURE
     * https://github.com/ChrisRisner/chrisrisner.github.io/blob/master/presentations/2016-360idev-CloudPowerediOS.pptx
@@ -68,7 +68,7 @@
     * Slides: https://github.com/triceam/Presentations/raw/master/2016/360iDev/Drones%20Cognitive%20Cloud%20Serverless%20and%20Swift%20-%20Andrew%20Trice.pdf
 * 300: AN INDIE’S GUIDE TO BUILDING PROFITABLE APPS
 * 200: ADVANCED IOS APPLICATION ARCHITECTURE
-    * https://github.com/justin/iDev2016.git 
+    * https://github.com/justin/iDev2016.git
 * 200: WRITING CODE FOR HUMANS, NOT COMPUTERS
     * http://www.slideshare.net/renecacheaux/writing-code-for-humans-not-computers
 * HOW TO START AN APP CAMP FOR GIRLS LOCATION
@@ -93,6 +93,7 @@
 * CONFUSION OPTIONAL
 * 200: LEVERAGING SWIFT’S TYPE SYSTEM
 * 200: DEVELOPING WEARABLE SOFTWARE
+    * Src: https://github.com/cnstoll/BeerButton
 * CYCRIPT: JS/OBJC/JAVA HYBRID REPL
 * 300: EFFECTIVE NETWORK API DEVELOPMENT & TESTING WITH MOCKING
 * MIKE LEE, STATE OF THE THINGS
@@ -100,4 +101,3 @@
 * 200: REFACTORING A MASSIVE VIEW CONTROLLER IN SWIFT
 * 200: BUILDING AND INTEGRATING FRAMEWORKS
 * JAY SAYS THINGS WE DON’T UNDERSTAND BUT STILL AWE US
-
