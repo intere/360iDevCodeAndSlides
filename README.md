@@ -89,12 +89,14 @@
 
 ## Third Day (Wednesday)
 * 200: PLAY FIRST DEVELOPMENT
+    * [Code + Slides](http://tinyurl.com/PlayFirstDev-360iDev2016)
 * 300: GAMIFYING THE NEWS
     * [Slides](https://github.com/ArtSabintsev/Gamifying-the-News-360iDev-2016/)
 * 200: NEEDLE IN A HAYSTACK: IOS SEARCH
     * [Slides](https://speakerdeck.com/mblackmon/search-in-ios-9-needle-in-a-haystack)
 * CONFUSION OPTIONAL
 * 200: LEVERAGING SWIFT’S TYPE SYSTEM
+    * [Slides](https://speakerdeck.com/benjamin_encz/leveraging-swifts-type-system)
 * 200: DEVELOPING WEARABLE SOFTWARE
     * Src: https://github.com/cnstoll/BeerButton
 * CYCRIPT: JS/OBJC/JAVA HYBRID REPL
