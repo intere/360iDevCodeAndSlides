@@ -76,6 +76,7 @@
 * 100: CHALLENGING OUR ASSUMPTIONS TO SUCCEED IN THE APP STORE
     * https://speakerdeck.com/parrots/360idev-challenging-our-assumptions-to-succeed-in-the-app-store
 * 200: A TALE OF TWO TRACERS
+    * [Slides](resources/A%20TALE%20OF%20TWO%20TRACERS/TwoTracers-360iDev-2016.key.pdf)
     * https://github.com/hyperjeff/360iDev-2016-RayTracing
 * 300: SWIFT GLUE CODE
     * https://github.com/sptramer/360iDev-Swift-Glue-2016
