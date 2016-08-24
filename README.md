@@ -58,6 +58,8 @@
     * https://github.com/rmirabelli/CoreAnimationSwiftPlaygrounds/
 * 100: CAN YOU TEST IT
 * 100: DON’T WRITE TVML OFF YET…
+    * [Slides](https://speakerdeck.com/sammyd/tvml-myths-or-why-you-shouldnt-write-tvml-off-dot-dot-dot-yet)
+    * Src https://github.com/sammyd/360iDev16_TVMLMyths
 * 300: LIFE AFTER PARSE
 * 100: ON THE SHOULDER OF GIANTS: HOW TO PROPERLY MENTOR A JUNIOR DEVELOPER
     * [Slides](resources/ON%20THE%20SHOULDER%20OF%20GIANTS%20-%20HOW%20TO%20PROPERLY%20MENTOR%20A%20JUNIOR%20DEVELOPER/On%20the%20Shoulder%20Of%20Giants%20-%20How%20To%20Properly%20Mentor%20A%20Junior%20Developer.pdf)
