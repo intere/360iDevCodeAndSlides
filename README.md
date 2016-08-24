@@ -78,6 +78,7 @@
 * 200: A TALE OF TWO TRACERS
     * [Slides](resources/A%20TALE%20OF%20TWO%20TRACERS/TwoTracers-360iDev-2016.key.pdf)
     * https://github.com/hyperjeff/360iDev-2016-RayTracing
+    * [Playground](resources/A%20TALE%20OF%20TWO%20TRACERS/360iDev-2016-RayTracing-master.zip)
 * 300: SWIFT GLUE CODE
     * https://github.com/sptramer/360iDev-Swift-Glue-2016
 * 200: TWEAKING AND A/B TESTING YOUR APP ON THE FLY
