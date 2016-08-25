@@ -29,6 +29,7 @@
     * https://speakerdeck.com/tyburg/major-s-to-ios-design
     * [Post with the links mentioned in the talk](https://medium.com/@tyburg/major-s-to-ios-design-links-28cdf0afee01#.8vm3n3x6u)
 * 100: FAST, FUN, AND PROFESSIONAL AUDIO IN YOUR APPS
+    * [Slides](https://www.dropbox.com/s/87zyk0vw19lurlw/360iDev_AudioPresentation.key?dl=0)
     * http://audiokit.io/360iDev (https://www.dropbox.com/s/17ukptnpfowj2u9/360.zip?dl=0)
     * https://github.com/audiokit/AudioKit (they are looking for contributors)
 * SHARING: SUCCESS TO BROKE AND BACK IN BIZ/HOW TO USE CLOUDKIT’S CKSHARE
@@ -110,4 +111,5 @@
 * 200: REFACTORING A MASSIVE VIEW CONTROLLER IN SWIFT
     * Src: https://github.com/jeremiahgage/ViewControllerRefactoring
 * 200: BUILDING AND INTEGRATING FRAMEWORKS
+    * [Slides](https://github.com/soolwan/360iDev2016)
 * JAY SAYS THINGS WE DON’T UNDERSTAND BUT STILL AWE US
