@@ -56,6 +56,7 @@
 
 ## Second Day (Tuesday)
 * 200: SERIOUS SIMULATION WITH GAMEPLAYKIT
+    * [Slides](https://www.dropbox.com/s/9rbufpvx1tmzcxq/SeriousSimulationWithGameplayKit-AdamEberbach-360iDev2016.pdf?dl=0)
 * 200: BETTER CORE ANIMATION USING SWIFT PLAYGROUNDS
     * https://github.com/rmirabelli/CoreAnimationSwiftPlaygrounds/
 * 100: CAN YOU TEST IT
